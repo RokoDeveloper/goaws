@@ -40,3 +40,7 @@
 [[constraint]]
   name = "github.com/stretchr/testify"
   version = "1.1.4"
+  
+[metadata.heroku]
+  name = "github.com/p4tin/goaws"
+  root-package = "github.co
